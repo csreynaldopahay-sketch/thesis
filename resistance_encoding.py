@@ -6,7 +6,6 @@ Encodes antibiotic susceptibility data as numerical vectors
 import pandas as pd
 import numpy as np
 from typing import Dict, Tuple, List
-import re
 
 
 class ResistanceFingerprintEncoder:
