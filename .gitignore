@@ -50,3 +50,6 @@ figures/
 
 # Data (keep original CSVs)
 !*.csv
+
+# Streamlit
+.streamlit/
